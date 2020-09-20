@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;  
+    font-family: 'Ranchers', cursive;  
+    background-color: #343434;
+}
+
+h1 {
+    margin-top: 2.5rem;
+    margin-bottom: 3rem;
+    font-size: 3.5rem;
+    color: #FFE66D;
+}
+
+#snake {
+    border-radius: 1.5rem;
+}
+
+h5 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2rem;
+}
+
+
+
