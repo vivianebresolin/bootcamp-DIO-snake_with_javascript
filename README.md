@@ -3,7 +3,7 @@ Project from the bootcamp "HTML Web Developer" offered by Digital Innovation One
 
 
 ### Project Description:
- The goal of this project was developing in a simple way the classic Snake Game with HTML, CSS e JavaScript.
+ The goal of this project was to develop in a simple way the classic Snake Game with HTML, CSS e JavaScript.
 
 ### Game developed by the instructor during the class:
 
