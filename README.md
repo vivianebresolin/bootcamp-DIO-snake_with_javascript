@@ -1,1 +1,20 @@
-# bootcamp-DIO-snake_with_javascript
+## Snake Game with HTML, CSS and Javascript
+Project from the bootcamp "HTML Web Developer" offered by Digital Innovation One (https://digitalinnovation.one/).
+
+
+### Project Description:
+ The goal of this project was developing in a simple way the classic Snake Game with HTML, CSS e JavaScript.
+
+### Game developed by the instructor during the class:
+
+
+<img src="img/instructor-snake-game.PNG" width="450">
+
+
+### Game customized by me:
+- I've changed the font-family. I've chosen a font from Google Fonts called Ranchers.
+- The color scheme was generated in the website coolors.co.
+
+<img src="img/my-snake-game.PNG" width="460">
+
+
