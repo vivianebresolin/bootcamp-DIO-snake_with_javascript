@@ -1,9 +1,9 @@
-## Snake Game with HTML, CSS and Javascript
+## Snake Game with HTML, CSS, and Javascript
 Project from the bootcamp "HTML Web Developer" offered by Digital Innovation One (https://digitalinnovation.one/).
 
 
 ### Project Description:
- The goal of this project was to develop in a simple way the classic Snake Game with HTML, CSS e JavaScript.
+ The goal of this project was to develop in a simple way the classic Snake Game with HTML, CSS, and JavaScript.
 
 ### Game developed by the instructor during the class:
 
